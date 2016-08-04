@@ -1,7 +1,5 @@
-title: WordPress › ReadMe
-
-# [![WordPress][]][]   
- Version 4.5.3 [logo]
+# [![WordPress][]][] 
+ Version 4.5.3
 
 Semantic Personal Publishing Platform
 
@@ -59,16 +57,20 @@ WordPress can [import from a number of systems][]. First you need to get WordPre
 
 If you have any questions that aren’t addressed in this document, please take advantage of WordPress’ numerous online resources:
 
-[The WordPress Codex][]
-:   The Codex is the encyclopedia of all things WordPress. It is the most comprehensive source of information for WordPress available.
-[The WordPress Blog][]
-:   This is where you’ll find the latest updates and news related to WordPress. Recent WordPress news appears in your administrative dashboard by default.
-[WordPress Planet][]
-:   The WordPress Planet is a news aggregator that brings together posts from WordPress blogs around the web.
-[WordPress Support Forums][]
-:   If you’ve looked everywhere and still can’t find an answer, the support forums are very active and have a large community ready to help. To help them help you be sure to use a descriptive thread title and describe your question in as much detail as possible.
-[WordPress IRC Channel][]
-:   There is an online chat channel that is used for discussion among people who use WordPress and occasionally support topics. The above wiki page should point you in the right direction. ([irc.freenode.net \#wordpress][])
+[The WordPress Codex][]  
+The Codex is the encyclopedia of all things WordPress. It is the most comprehensive source of information for WordPress available.
+
+[The WordPress Blog][]  
+This is where you’ll find the latest updates and news related to WordPress. Recent WordPress news appears in your administrative dashboard by default.
+
+[WordPress Planet][]  
+The WordPress Planet is a news aggregator that brings together posts from WordPress blogs around the web.
+
+[WordPress Support Forums][]  
+If you’ve looked everywhere and still can’t find an answer, the support forums are very active and have a large community ready to help. To help them help you be sure to use a descriptive thread title and describe your question in as much detail as possible.
+
+[WordPress IRC Channel][]  
+There is an online chat channel that is used for discussion among people who use WordPress and occasionally support topics. The above wiki page should point you in the right direction. ([irc.freenode.net \#wordpress][])
 
 ## Final Notes
 
