@@ -1,3 +1,5 @@
 # ignore wp-config file b/c it contains sensitive info
 wp-config.php
 analyticstracking.php
+*~
+
