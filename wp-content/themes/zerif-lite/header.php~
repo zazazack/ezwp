@@ -34,8 +34,6 @@ endif;
 wp_head(); ?>
 
 <?php zerif_bottom_head_trigger(); ?>
-
-<?php include_once( ABSPATH . 'analyticstracking.php' )?>
 </head>
 
 <?php if(isset($_POST['scrollPosition'])): ?>
