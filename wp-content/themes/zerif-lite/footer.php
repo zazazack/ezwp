@@ -176,7 +176,7 @@
 						endif;
 
 				
-						
+						//Code Removed to hide extra text
 
 
 						echo '</div>';
